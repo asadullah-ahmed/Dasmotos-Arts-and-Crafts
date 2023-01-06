@@ -9,7 +9,7 @@ html {
 }
 
 header {
-  background-image: url("/resources/images/pattern.jpeg");
+  background-image: url("/pattern.jpeg");
   background-position: center;
   background-size: cover;
   height: 250px;
