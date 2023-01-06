@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+header {
+  background-image: url("/resources/images/pattern.jpeg");
+  background-position: center;
+  background-size: cover;
+  height: 250px;
+  margin: 100px 10px;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+main h2 {
+  font-size: 32px;
+  font-weight: bold;
+  background-color: mediumspringgreen;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.frames {
+  background-color: lightcoral;
+}
+
+.paint {
+  background-color: skyblue;
+}
+
+main h3 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+main p {
+  font-size: 17px;
+  margin-bottom: 20px;
+}
+
+main span {
+  color: blue;
+  font-weight: bold;
+  font-size: 20px;
+}
